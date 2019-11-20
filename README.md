@@ -1,5 +1,5 @@
 # Tarea 02
-Creado por: Maria Marta Mora Rivas y Carlos Eduardo Gómez Salazar
+Creado por: María Marta Mora Rivas y Carlos Eduardo Gómez Salazar
 
 <h1>Tarea 02</h1>
 
